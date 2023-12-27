@@ -1,0 +1,9 @@
+____________Kalal Airlines______________
+______________Ticket_________________
+_____________________________________
+customer ID :7896
+customer Name :Rizwan
+customer Gender :mLW
+	 description :
+Destination 		 India
+Flight cost:		46000
